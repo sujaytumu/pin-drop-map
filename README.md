@@ -5,6 +5,9 @@ An interactive web tool to drop location pins on a map, add personal remarks, an
 
 
 
+![WhatsApp Image 2025-07-21 at 17 44 12_7d1768b0](https://github.com/user-attachments/assets/2fb145cf-3e8b-477d-81cb-ef9e6403fb5a)
+
+
 🚀 Features
 🗺️ Interactive Leaflet-based map
 
