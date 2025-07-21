@@ -37,7 +37,7 @@ An interactive web tool to drop location pins on a map, add personal remarks, an
 
 ## 📦 Setup Instructions
 
-1. Clone or Download this repo  
+1. write code
 2. Open `index.html` directly in a browser  
 3. Start clicking on the map to drop pins and add remarks  
 4. Use the search bar to jump to known places  
