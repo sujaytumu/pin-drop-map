@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pin Drop Map</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+  <div id="topbar">
+    <input type="text" id="locationSearch" placeholder="Search a location (e.g., Happy Homes, Darsi)" />
+    <button onclick="searchLocation()">Search</button>
+    <button id="clearPinsBtn">🗑️ Delete All Pins</button>
+  </div>
+  <div id="container">
+    <div id="map"></div>
+    <div id="sidebar">
+      <h2>Saved Pins</h2>
+      <ul id="pinList"></ul>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="script.js" defer></script>
+</body>
+</html>
